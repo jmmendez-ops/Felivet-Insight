@@ -1,6 +1,6 @@
 # Feline Detector (Public Collaboration Copy)
 
-A Flutter app for cat-focused detection and classification workflows
+A Flutter app for cat-focused detection and classification 
 
 ## Requirements
 
