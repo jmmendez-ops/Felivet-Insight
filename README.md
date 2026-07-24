@@ -28,7 +28,7 @@ flutter pub get
 flutter run
 ```
 
-## Collaboration Flow
+## Collaboration
 
 1. Create a branch from `main`.
 2. Keep PRs focused and small.
