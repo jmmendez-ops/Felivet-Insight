@@ -12,7 +12,7 @@ A Flutter app for cat-focused detection and classification
 ## Quick Start
 
 1. Clone the repository.
-2. Install dependenci:
+2. Install dependencies:
 
 ```bash
 flutter pub get
