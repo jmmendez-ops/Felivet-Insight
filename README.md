@@ -1,10 +1,6 @@
 # Feline Detector (Public Collaboration Copy)
 
-A Flutter app for cat-focused detection and classification workflows.
-
-## Project Status
-
-This repository is the public collaboration copy of the project.
+A Flutter app for cat-focused detection and classification workflows
 
 ## Requirements
 
