@@ -62,7 +62,7 @@ There's currently no app store listing or standalone APK — the app runs by bui
 
 ## Contributor Expectations
 
-- Fork the repo and work off a feature branch (`feature/your-feature-name`).
+- Fork the repo and work off a feature branch.
 - Keep pull requests focused — one feature or fix per PR, with a clear description of what changed and why.
 - Follow existing Dart/Flutter style conventions in the codebase; run `flutter analyze` before submitting.
 - Test on at least one physical device or emulator before opening a PR.
