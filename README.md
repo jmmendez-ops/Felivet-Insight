@@ -4,7 +4,7 @@
 
 ## Overview
 
-FeliVet Insight is a Flutter mobile app that helps cat owners get a quick, AI-assisted first look at common feline skin conditions using their phone's camera. An on-device YOLOv8 model scans a photo for signs of Scabies, Ringworm, and Flea Allergy, and a deterministic expert system combines visual evidence strength, disease-specific clinical risk, and reported symptoms into a clear **Stable / Moderate / High** urgency result — with plain-language reasoning and a recommendation.
+FeliVet Insight is a Flutter mobile app that helps cat owners get a quick, AI-assisted first look at common feline skin conditions using their phone's camera. An on-device YOLOv8 model scans a photo for signs of Scabies, Ringworm, and Flea Allergy, and a deterministic expert system combines visual evidence strength, disease-specific clinical risk, and reported symptoms into a clear **Stable / Moderate / High** urgency result with plain-language reasoning and a recommendation.
 
 > ⚠️ **This is a triage aid, not a diagnosis.** Always consult a licensed veterinarian.
 
@@ -63,11 +63,11 @@ There's currently no app store listing or standalone APK — the app runs by bui
 ## Contributor Expectations
 
 - Fork the repo and work off a feature branch.
-- Keep pull requests focused — one feature or fix per PR, with a clear description of what changed and why.
+- Keep pull requests focused - one feature or fix per PR, with a clear description of what changed and why.
 - Follow existing Dart/Flutter style conventions in the codebase; run `flutter analyze` before submitting.
 - Test on at least one physical device or emulator before opening a PR.
 - Open an issue first for larger changes (new detection classes, model swaps, UI overhauls) so the approach can be discussed.
-- Be respectful and constructive in code review — this is a community health tool, and clarity matters more than cleverness.
+- Be respectful and constructive in code review - this is a community health tool, and clarity matters more than cleverness.
 
 ## Known Issues
 
