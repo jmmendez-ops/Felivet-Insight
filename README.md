@@ -1,6 +1,6 @@
 # 🐾 FeliVet Insight
 
-**A fast, on-device AI first-read on common feline skin conditions — from a photo.**
+**A fast, on-device AI first-read on common feline skin conditions  from a photo.**
 
 ## Overview
 
@@ -8,9 +8,6 @@ FeliVet Insight is a Flutter mobile app that helps cat owners get a quick, AI-as
 
 > ⚠️ **This is a triage aid, not a diagnosis.** Always consult a licensed veterinarian.
 
-## Demo
-
-*(Add a screen recording, GIF, or screenshots of the app flow here — camera capture → analysis → result screen.)*
 
 ## Installation (Users)
 
