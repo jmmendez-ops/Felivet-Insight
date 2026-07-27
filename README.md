@@ -9,8 +9,7 @@ FeliVet Insight is a Flutter mobile app that helps cat owners get a quick, AI-as
 > ⚠️ **This is a triage aid, not a diagnosis.** Always consult a licensed veterinarian.
 
 
-## Installation (Users)
-
+## Installation
 There's currently no app store listing or standalone APK — the app runs by building the project and installing it directly to your phone through VS Code.
 
 1. Install [VS Code](https://code.visualstudio.com/) and the [Flutter](https://docs.flutter.dev/get-started/install) + [Dart](https://docs.flutter.dev/get-started/install) extensions.
