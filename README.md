@@ -14,7 +14,7 @@ FeliVet Insight is a Flutter mobile app that helps cat owners get a quick, AI-as
 There's currently no app store listing or standalone APK — the app runs by building the project and installing it directly to your phone through VS Code.
 
 1. Install [VS Code](https://code.visualstudio.com/) and the [Flutter](https://docs.flutter.dev/get-started/install) + [Dart](https://docs.flutter.dev/get-started/install) extensions.
-2. Download or clone this repositor
+2. Download or clone this repository:
    ```bash
    git clone https://github.com/jmmendez-ops/feline-detector-public.git
    ```
