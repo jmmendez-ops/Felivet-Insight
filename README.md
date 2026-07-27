@@ -16,7 +16,7 @@ This repository is the public collaboration copy of the project.
 ## Quick Start
 
 1. Clone the repository.
-2. Install dependencies:
+2. Install dependencie
 
 ```bash
 flutter pub get
